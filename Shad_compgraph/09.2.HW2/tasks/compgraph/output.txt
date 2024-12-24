@@ -1,0 +1,507 @@
+[
+    {
+        "doc_id": "a_tale_of_two_cities",
+        "text": "aggerawayter",
+        "pmi": 2.9397495605212494
+    },
+    {
+        "doc_id": "a_tale_of_two_cities",
+        "text": "antoines",
+        "pmi": 2.9397495605212494
+    },
+    {
+        "doc_id": "a_tale_of_two_cities",
+        "text": "believeth",
+        "pmi": 2.9397495605212494
+    },
+    {
+        "doc_id": "a_tale_of_two_cities",
+        "text": "bumper",
+        "pmi": 2.9397495605212494
+    },
+    {
+        "doc_id": "a_tale_of_two_cities",
+        "text": "cessation",
+        "pmi": 2.9397495605212494
+    },
+    {
+        "doc_id": "a_tale_of_two_cities",
+        "text": "chafed",
+        "pmi": 2.9397495605212494
+    },
+    {
+        "doc_id": "a_tale_of_two_cities",
+        "text": "clerkenwell",
+        "pmi": 2.9397495605212494
+    },
+    {
+        "doc_id": "a_tale_of_two_cities",
+        "text": "coachdoor",
+        "pmi": 2.9397495605212494
+    },
+    {
+        "doc_id": "a_tale_of_two_cities",
+        "text": "contended",
+        "pmi": 2.9397495605212494
+    },
+    {
+        "doc_id": "a_tale_of_two_cities",
+        "text": "crowbar",
+        "pmi": 2.9397495605212494
+    },
+    {
+        "doc_id": "adventures_of_huckleberry_finn",
+        "text": "_aamen_",
+        "pmi": 3.3746902020708966
+    },
+    {
+        "doc_id": "adventures_of_huckleberry_finn",
+        "text": "_again_",
+        "pmi": 3.3746902020708966
+    },
+    {
+        "doc_id": "adventures_of_huckleberry_finn",
+        "text": "_aint_",
+        "pmi": 3.3746902020708966
+    },
+    {
+        "doc_id": "adventures_of_huckleberry_finn",
+        "text": "_amen_",
+        "pmi": 3.3746902020708966
+    },
+    {
+        "doc_id": "adventures_of_huckleberry_finn",
+        "text": "_and_",
+        "pmi": 3.3746902020708966
+    },
+    {
+        "doc_id": "adventures_of_huckleberry_finn",
+        "text": "_another_",
+        "pmi": 3.3746902020708966
+    },
+    {
+        "doc_id": "adventures_of_huckleberry_finn",
+        "text": "_anybody_",
+        "pmi": 3.3746902020708966
+    },
+    {
+        "doc_id": "adventures_of_huckleberry_finn",
+        "text": "_anyway_",
+        "pmi": 3.3746902020708966
+    },
+    {
+        "doc_id": "adventures_of_huckleberry_finn",
+        "text": "_baa_",
+        "pmi": 3.3746902020708966
+    },
+    {
+        "doc_id": "adventures_of_huckleberry_finn",
+        "text": "_before_",
+        "pmi": 3.3746902020708966
+    },
+    {
+        "doc_id": "alice_adventures_in_wonderland",
+        "text": "alices",
+        "pmi": 4.587853191699828
+    },
+    {
+        "doc_id": "alice_adventures_in_wonderland",
+        "text": "andoh",
+        "pmi": 4.587853191699828
+    },
+    {
+        "doc_id": "alice_adventures_in_wonderland",
+        "text": "barrowful",
+        "pmi": 4.587853191699828
+    },
+    {
+        "doc_id": "alice_adventures_in_wonderland",
+        "text": "beauootiful",
+        "pmi": 4.587853191699828
+    },
+    {
+        "doc_id": "alice_adventures_in_wonderland",
+        "text": "blasts",
+        "pmi": 4.587853191699828
+    },
+    {
+        "doc_id": "alice_adventures_in_wonderland",
+        "text": "carroll",
+        "pmi": 4.587853191699828
+    },
+    {
+        "doc_id": "alice_adventures_in_wonderland",
+        "text": "caucusrace",
+        "pmi": 4.587853191699828
+    },
+    {
+        "doc_id": "alice_adventures_in_wonderland",
+        "text": "cheshire",
+        "pmi": 4.587853191699828
+    },
+    {
+        "doc_id": "alice_adventures_in_wonderland",
+        "text": "coaxing",
+        "pmi": 4.587853191699828
+    },
+    {
+        "doc_id": "alice_adventures_in_wonderland",
+        "text": "comfits",
+        "pmi": 4.587853191699828
+    },
+    {
+        "doc_id": "beowulf",
+        "text": "\u00e6schere",
+        "pmi": 4.106303663458638
+    },
+    {
+        "doc_id": "beowulf",
+        "text": "\u00e6scheres",
+        "pmi": 4.106303663458638
+    },
+    {
+        "doc_id": "beowulf",
+        "text": "\u00fcbersetzt",
+        "pmi": 4.106303663458638
+    },
+    {
+        "doc_id": "beowulf",
+        "text": "\u00fe\u00e6tclause",
+        "pmi": 4.106303663458638
+    },
+    {
+        "doc_id": "dracula",
+        "text": "_boyar_",
+        "pmi": 2.927018124143789
+    },
+    {
+        "doc_id": "dracula",
+        "text": "_czarina",
+        "pmi": 2.927018124143789
+    },
+    {
+        "doc_id": "dracula",
+        "text": "_demeter_",
+        "pmi": 2.927018124143789
+    },
+    {
+        "doc_id": "dracula",
+        "text": "_jonathan",
+        "pmi": 2.927018124143789
+    },
+    {
+        "doc_id": "dracula",
+        "text": "_knew_",
+        "pmi": 2.927018124143789
+    },
+    {
+        "doc_id": "dracula",
+        "text": "_later",
+        "pmi": 2.927018124143789
+    },
+    {
+        "doc_id": "dracula",
+        "text": "_later_another",
+        "pmi": 2.927018124143789
+    },
+    {
+        "doc_id": "dracula",
+        "text": "_later_i",
+        "pmi": 2.927018124143789
+    },
+    {
+        "doc_id": "dracula",
+        "text": "_later_it",
+        "pmi": 2.927018124143789
+    },
+    {
+        "doc_id": "dracula",
+        "text": "_later_lord",
+        "pmi": 2.927018124143789
+    },
+    {
+        "doc_id": "frankestein",
+        "text": "abhorrence",
+        "pmi": 3.426362732392888
+    },
+    {
+        "doc_id": "frankestein",
+        "text": "acorns",
+        "pmi": 3.426362732392888
+    },
+    {
+        "doc_id": "frankestein",
+        "text": "acquirement",
+        "pmi": 3.426362732392888
+    },
+    {
+        "doc_id": "frankestein",
+        "text": "adduced",
+        "pmi": 3.426362732392888
+    },
+    {
+        "doc_id": "frankestein",
+        "text": "adversarys",
+        "pmi": 3.426362732392888
+    },
+    {
+        "doc_id": "frankestein",
+        "text": "agitates",
+        "pmi": 3.426362732392888
+    },
+    {
+        "doc_id": "frankestein",
+        "text": "agonies",
+        "pmi": 3.426362732392888
+    },
+    {
+        "doc_id": "frankestein",
+        "text": "agrippa",
+        "pmi": 3.426362732392888
+    },
+    {
+        "doc_id": "frankestein",
+        "text": "albertus",
+        "pmi": 3.426362732392888
+    },
+    {
+        "doc_id": "frankestein",
+        "text": "alchemists",
+        "pmi": 3.426362732392888
+    },
+    {
+        "doc_id": "iliad",
+        "text": "zeleia",
+        "pmi": 2.9103845939397988
+    },
+    {
+        "doc_id": "iliad",
+        "text": "youths",
+        "pmi": 2.274395827219802
+    },
+    {
+        "doc_id": "les_miserables",
+        "text": "candlesticks",
+        "pmi": 1.3998280822874536
+    },
+    {
+        "doc_id": "les_miserables",
+        "text": "chimneypiece",
+        "pmi": 1.3998280822874536
+    },
+    {
+        "doc_id": "les_miserables",
+        "text": "c\u00e6sar",
+        "pmi": 1.3998280822874536
+    },
+    {
+        "doc_id": "les_miserables",
+        "text": "demolished",
+        "pmi": 1.3998280822874536
+    },
+    {
+        "doc_id": "les_miserables",
+        "text": "deuce",
+        "pmi": 1.3998280822874536
+    },
+    {
+        "doc_id": "les_miserables",
+        "text": "districtattorney",
+        "pmi": 1.3998280822874536
+    },
+    {
+        "doc_id": "les_miserables",
+        "text": "exconvict",
+        "pmi": 1.3998280822874536
+    },
+    {
+        "doc_id": "les_miserables",
+        "text": "flings",
+        "pmi": 1.3998280822874536
+    },
+    {
+        "doc_id": "les_miserables",
+        "text": "gamin",
+        "pmi": 1.3998280822874536
+    },
+    {
+        "doc_id": "les_miserables",
+        "text": "gayety",
+        "pmi": 1.3998280822874536
+    },
+    {
+        "doc_id": "metamorphosis",
+        "text": "adhesive",
+        "pmi": 4.681675730754446
+    },
+    {
+        "doc_id": "metamorphosis",
+        "text": "alright",
+        "pmi": 4.681675730754446
+    },
+    {
+        "doc_id": "metamorphosis",
+        "text": "banister",
+        "pmi": 4.681675730754446
+    },
+    {
+        "doc_id": "metamorphosis",
+        "text": "bosss",
+        "pmi": 4.681675730754446
+    },
+    {
+        "doc_id": "metamorphosis",
+        "text": "breakfasts",
+        "pmi": 4.681675730754446
+    },
+    {
+        "doc_id": "metamorphosis",
+        "text": "charwoman",
+        "pmi": 4.681675730754446
+    },
+    {
+        "doc_id": "metamorphosis",
+        "text": "cleaner",
+        "pmi": 4.681675730754446
+    },
+    {
+        "doc_id": "metamorphosis",
+        "text": "dungbeetle",
+        "pmi": 4.681675730754446
+    },
+    {
+        "doc_id": "metamorphosis",
+        "text": "foods",
+        "pmi": 4.681675730754446
+    },
+    {
+        "doc_id": "metamorphosis",
+        "text": "fretsaw",
+        "pmi": 4.681675730754446
+    },
+    {
+        "doc_id": "moby_dick",
+        "text": "youyou",
+        "pmi": 2.43416046002912
+    },
+    {
+        "doc_id": "moby_dick",
+        "text": "zealand",
+        "pmi": 2.43416046002912
+    },
+    {
+        "doc_id": "moby_dick",
+        "text": "zoned",
+        "pmi": 2.43416046002912
+    },
+    {
+        "doc_id": "moby_dick",
+        "text": "zones",
+        "pmi": 2.43416046002912
+    },
+    {
+        "doc_id": "moby_dick",
+        "text": "zoology",
+        "pmi": 1.5178697281549651
+    },
+    {
+        "doc_id": "persuasion",
+        "text": "abilities",
+        "pmi": 3.3802976612486546
+    },
+    {
+        "doc_id": "persuasion",
+        "text": "accommodations",
+        "pmi": 3.3802976612486546
+    },
+    {
+        "doc_id": "persuasion",
+        "text": "acknowledgement",
+        "pmi": 3.3802976612486546
+    },
+    {
+        "doc_id": "persuasion",
+        "text": "affluence",
+        "pmi": 3.3802976612486546
+    },
+    {
+        "doc_id": "persuasion",
+        "text": "aggravation",
+        "pmi": 3.3802976612486546
+    },
+    {
+        "doc_id": "persuasion",
+        "text": "alicia",
+        "pmi": 3.3802976612486546
+    },
+    {
+        "doc_id": "persuasion",
+        "text": "alloy",
+        "pmi": 3.3802976612486546
+    },
+    {
+        "doc_id": "persuasion",
+        "text": "apace",
+        "pmi": 3.3802976612486546
+    },
+    {
+        "doc_id": "persuasion",
+        "text": "apologies",
+        "pmi": 3.3802976612486546
+    },
+    {
+        "doc_id": "persuasion",
+        "text": "applications",
+        "pmi": 3.3802976612486546
+    },
+    {
+        "doc_id": "war_and_peace",
+        "text": "zealously",
+        "pmi": 1.3979445380047915
+    },
+    {
+        "doc_id": "war_and_peace",
+        "text": "zherk\u00f3vs",
+        "pmi": 1.3979445380047915
+    },
+    {
+        "doc_id": "war_and_peace",
+        "text": "zhil\u00ednski",
+        "pmi": 1.3979445380047915
+    },
+    {
+        "doc_id": "war_and_peace",
+        "text": "znaim",
+        "pmi": 1.3979445380047915
+    },
+    {
+        "doc_id": "war_and_peace",
+        "text": "z\u00fabov",
+        "pmi": 1.3979445380047915
+    },
+    {
+        "doc_id": "war_and_peace",
+        "text": "z\u00fabova",
+        "pmi": 1.3979445380047915
+    },
+    {
+        "doc_id": "war_and_peace",
+        "text": "z\u00fabovski",
+        "pmi": 1.3979445380047915
+    },
+    {
+        "doc_id": "war_and_peace",
+        "text": "\u00e1psheron",
+        "pmi": 1.3979445380047915
+    },
+    {
+        "doc_id": "war_and_peace",
+        "text": "\u00e1psherons",
+        "pmi": 1.3979445380047915
+    },
+    {
+        "doc_id": "war_and_peace",
+        "text": "\u00e9chkino",
+        "pmi": 1.3979445380047915
+    }
+]
